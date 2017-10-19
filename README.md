@@ -7,7 +7,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 
 Either run
 ```sh
-$ php composer.phar require --prefer-dist fbalabanov/yii2-ajax-modal "^1.0"
+$ php composer.phar require fbalabanov/yii2-ajax-modal
 ```
 or add
 ```
